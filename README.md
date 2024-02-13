@@ -14,4 +14,16 @@ Best FREE Anti Cheat all for free this anti cheat inculudes Anti-Fly Anti-reach 
 And more !
 
 
-
+Orders available​
+v1.2.8 and more, the commands are different if you have a version earlier than 1.2.8.
+/oxa help | list of orders | oxa-anticheat.main
+/oxa reload | reload anti-cheat | oxa-anticheat.main
+/oxa banip <ip> | ban an IP address | oxa-anticheat.main
+/oxa unbanip <ip> | delete an IP address | oxa-anticheat.main
+/oxa openinv <player> | open any player's inventory | oxa-anticheat.main
+/oxa enabled | verificate enabled or disabled anti cheat | oxa-anticheat.main
+v1.3.3 and more :
+/oxa whitelist add <pseudo> | add a player to the white list | oxa-anticheat.main
+v1.3.4 and more :
+/oxa whitelist remove <player> | remove a player to the white list | oxa-anticheat.main
+/oxa freeze <player> <duration> | freeze a player | oxa-anticheat.main
